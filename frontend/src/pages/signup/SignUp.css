@@ -16,7 +16,7 @@
     margin-top: 50px;
 }
 .signup-heading h1{
-    color: teal;
+    color: #6487c0;
     font-family: "Arimo", sans-serif;
     font-size: 60px;
 }
@@ -26,7 +26,7 @@
     font-size: 15px;
 }
 .signup-heading h3{
-    color:teal;
+    color:#6487c0;
     font-family: "Arimo", sans-serif;
     font-size: 25px;
 }
@@ -40,29 +40,29 @@
     flex-direction: column;
     text-align: center;
     padding: 30px;
-    background: beige;
+    background: #d9e4f5;
     border-radius: 40px;
     width: 380px;
     margin-top: 50px;
 }
 .signup h1{
     font-family: "Arimo", sans-serif;
-    color: teal;
+    color: #6487c0;
 }
 .signup-form input{
     border: none;
     outline: none;
     padding: 8px;
     margin-top: 10px;
-    border-bottom: 1px solid teal;
+    border-bottom: 1px solid #6487c0;
     font-family: "Arimo", sans-serif;
     font-size: 12px;
 }
 .signup-form button{
     border: none;
     outline: none;
-    background: teal;
-    color: beige;
+    background: #6487c0;
+    color: #d9e4f5;
     margin-top: 10px;
     border-radius: 20px;
 }

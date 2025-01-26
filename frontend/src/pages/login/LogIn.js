@@ -24,10 +24,10 @@ const LogIn = () => {
     <Layout>
     <div className='login'>
        <div className='login-heading'>
-        <h1>Job Nest </h1>
+        <h1>Next Hire </h1>
         <h2>India Leading Job Searching Platform</h2>
         <h3>Register Yourself Now To Start Your Journey</h3>
-        <h4>5 Million + User's Already Registered</h4>
+        {/* <h4>5 Million + User's Already Registered</h4> */}
        </div>
        <div className='login-form'>
            <h1>Log In</h1>

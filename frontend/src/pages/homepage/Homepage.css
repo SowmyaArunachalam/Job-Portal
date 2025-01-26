@@ -19,7 +19,7 @@
     justify-content: center;
     align-items: center;
     width: 600px;
-    background: teal;
+    background: #6487c0;
     color: white;
     height: 300px;
     border-radius: 40px;
@@ -41,14 +41,14 @@
     display: flex;
     flex-direction: row;
     background: beige;
-    color: teal;
+    color: #6487c0;
     padding: 10px;
     border-radius: 40px;
 }
 
 .homepage-numbers p {
     margin-right: 5px;
-    color: teal;
+    color: #6487c0;
     font-family: "Arimo", sans-serif;
     font-size: 15px;
 }
@@ -67,7 +67,7 @@
 
 .homepage-box-two h2 {
     font-family: "Arimo", sans-serif;
-    color: teal;
+    color: #6487c0;
     font-size: 30px;
 }
 .homepage-box-two p{
@@ -99,7 +99,7 @@
 
 }
 .homepage-job-name p{
-    background: teal;
+    background: #6487c0;
     padding: 25px;
     color: beige;
     margin:5px 5px;
@@ -113,14 +113,14 @@
     border-radius: 20px;
 }
 .homepage-job-name h2{
-    color: teal;
+    color: #6487c0;
     font-size: 45px;
     margin-right: 40px;
     font-family: "Arimo", sans-serif;
-    border-bottom: 1px solid black;
+    /* border-bottom: 1px solid black; */
 }
 .homepage-job-name h3{
-    color: teal;
+    color: #6487c0;
     font-size: 20px;
     margin-right: 40px;
     font-family: "Arimo", sans-serif;

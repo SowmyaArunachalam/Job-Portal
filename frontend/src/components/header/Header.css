@@ -2,13 +2,13 @@
 
 .navbar-brand {
     font-family: "Arimo",sans-serif;
-    color: teal;
+    color: #6487c0;
     font-size: 25px;
     font-weight: 500;
     letter-spacing: 1px;
 }
 .nav-link{
-    color: teal !important;
+    color: #6487c0 !important;
     font-family: "Arimo", sans-serif;
     padding: 0;
     margin: 0;
@@ -25,7 +25,7 @@
 .navbar-nav button{
     border: none;
     outline: none;
-    color: teal;
+    color: #6487c0;
     background: transparent;
     padding: 0;
     margin: 0;

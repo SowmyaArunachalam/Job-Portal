@@ -19,7 +19,7 @@ const Header = () => {
       <span className="navbar-toggler-icon"></span>
     </button>
     <div className="collapse navbar-collapse" id="navbarTogglerDemo01">
-      <NavLink className="navbar-brand">Job Nest</NavLink>
+      <NavLink className="navbar-brand">Next Hire</NavLink>
       <ul className="navbar-nav ms-auto mb-2 mb-lg-0">
        {auth? (<><li className="nav-item">
           <NavLink to="/homepage" className="nav-link active" aria-current="page" >Home</NavLink>

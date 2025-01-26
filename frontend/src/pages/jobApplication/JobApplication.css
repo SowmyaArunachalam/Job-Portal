@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Arimo:ital,wght@0,400..700;1,400..700&display=swap');
+.modal-content{
+    background: beige;
+    border: 1px solid teal;
+    padding: 10px;
+}
+
+.modal-header{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+
+.modal-header h5{
+    color: teal;
+    text-align: center;
+    font-size: 30px;
+    font-family: "Arimo", sans-serif;
+}
+.modal-header button{
+    background: transparent;
+    border: none;
+    outline: none;
+    font-size: 30px;
+    color: red;
+}
+.form-group input{
+    padding: 5px;
+}
+.form-group label{
+    font-size: 13px;
+}
+.modal-body button{
+    width: 100%;
+    background: teal;
+    color: beige;
+    margin-top: 15px;
+}

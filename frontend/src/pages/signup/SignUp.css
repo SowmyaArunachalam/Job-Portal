@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Arimo:ital,wght@0,400..700;1,400..700&display=swap');
+
+.signup{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+}
+.signup-heading{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border-radius: 40px;
+    height: 300px;
+    margin-right: 60px;
+    margin-top: 50px;
+}
+.signup-heading h1{
+    color: teal;
+    font-family: "Arimo", sans-serif;
+    font-size: 60px;
+}
+.signup-heading h2{
+    color:black;
+    font-family: "Arimo", sans-serif;
+    font-size: 15px;
+}
+.signup-heading h3{
+    color:teal;
+    font-family: "Arimo", sans-serif;
+    font-size: 25px;
+}
+.signup-heading h4{
+    color:black;
+    font-family: "Arimo", sans-serif;
+    font-size: 15px;
+}
+.signup-form{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding: 30px;
+    background: beige;
+    border-radius: 40px;
+    width: 380px;
+    margin-top: 50px;
+}
+.signup h1{
+    font-family: "Arimo", sans-serif;
+    color: teal;
+}
+.signup-form input{
+    border: none;
+    outline: none;
+    padding: 8px;
+    margin-top: 10px;
+    border-bottom: 1px solid teal;
+    font-family: "Arimo", sans-serif;
+    font-size: 12px;
+}
+.signup-form button{
+    border: none;
+    outline: none;
+    background: teal;
+    color: beige;
+    margin-top: 10px;
+    border-radius: 20px;
+}

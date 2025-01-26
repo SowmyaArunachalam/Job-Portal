@@ -1,0 +1,50 @@
+.job-container{
+    display: flex;
+     flex-wrap: wrap;
+}
+.job-search-box{
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   padding: 50px;
+   margin: 20px;
+}
+.job-search-box input{
+   padding: 15px;
+   width: 1100px;
+   border: 1px solid teal;
+   outline: none;
+   
+}
+
+.job-info{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 600px;
+    height: 300px;
+     background:teal;
+     border-radius: 40px;
+     padding: 20px;
+     margin: 15px;
+}
+.job-info h1{
+    color:beige;
+    font-size: 25px;
+    text-align: center;
+}
+.job-info p{
+    margin: 0;
+    font-size: 11px;
+    color: beige;
+    letter-spacing: 1px;
+}
+.job-info button{
+    border: none;
+    outline: none;
+    background:beige;
+    color:teal;
+    border-radius: 20px;
+    margin-top: 5px;
+}

@@ -1,0 +1,30 @@
+.application{
+    padding: 10px;
+    flex-wrap: wrap;
+}
+.application h1{
+    text-align: center;
+}
+.application-box{
+      display: flex;
+      flex-direction: column;
+      width: 300px;
+      height: auto;
+      background:teal;
+      border-radius: 20px;
+      padding: 15px;
+      margin: 10px;
+}
+.application-box p,a{
+    font-size: 12px;
+    color: beige;
+    letter-spacing: 1px;
+    margin: 10px;
+}
+.application-box button{
+   border: none;
+   outline: none;
+   background:beige;
+   color:teal;
+   margin: 20px;
+}

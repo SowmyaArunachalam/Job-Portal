@@ -28,7 +28,7 @@
 }
 
 .homepage-box h1 {
-    color:beige;
+    color:#d9e4f5;
     font-family: "Arimo", sans-serif;
     font-size: 70px;
 }
@@ -40,7 +40,7 @@
 .homepage-numbers {
     display: flex;
     flex-direction: row;
-    background: beige;
+    background: #d9e4f5;
     color: #6487c0;
     padding: 10px;
     border-radius: 40px;
@@ -60,7 +60,7 @@
     align-items: center;
     padding: 10px;
     width: 400px;
-    background: beige;
+    background: #d9e4f5;
     border-radius: 40px;
     height: 280px;
 }
@@ -79,7 +79,7 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    background: beige;
+    background: #d9e4f5;
     height: 300px;
     border-radius: 40px;
     overflow-y:auto;
@@ -101,7 +101,7 @@
 .homepage-job-name p{
     background: #6487c0;
     padding: 25px;
-    color: beige;
+    color: #d9e4f5;
     margin:5px 5px;
     height: 200px;
     width: 370px;

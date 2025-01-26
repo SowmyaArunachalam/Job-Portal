@@ -17,14 +17,14 @@
 }
 .application-box p,a{
     font-size: 12px;
-    color: beige;
+    color: #d9e4f5;
     letter-spacing: 1px;
     margin: 10px;
 }
 .application-box button{
    border: none;
    outline: none;
-   background:beige;
+   background:#d9e4f5;
    color:#6487c0;
    margin: 20px;
 }

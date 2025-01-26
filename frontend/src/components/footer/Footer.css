@@ -9,7 +9,7 @@
     margin-top: 40px;
 }
 .footer h1{
-    color: beige;
+    color: #d9e4f5;
     font-family: "Arimo", sans-serif;
     font-size: 20px;
 }
@@ -22,7 +22,7 @@
     
 }
 .footer-contact h2{
-    color: beige;
+    color: #d9e4f5;
     font-family: "Arimo", sans-serif;
 }
 .footer-contact p{
@@ -37,12 +37,12 @@
     margin-right: 50px;
 }
 .footer-info h2{
-    color: beige;
+    color: #d9e4f5;
     font-family: "Arimo", sans-serif;
     font-size: 50px;
 }
 .footer-info p{
-    color: beige;
+    color: #d9e4f5;
     font-family: "Arimo", sans-serif;
     font-size: 12px;
 }
@@ -53,14 +53,14 @@
     
 }
 .footer-links h2{
-    color: beige;
+    color: #d9e4f5;
     font-family: "Arimo", sans-serif;
     margin-right: 10px;
     
 }
 .footer-links a{
     text-decoration: none;
-    color: beige;
+    color: #d9e4f5;
     font-size: 12px;
     margin: 3px;
 }

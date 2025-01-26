@@ -36,7 +36,7 @@ const SignUp = () => {
         <h1>Next Hire</h1>
         <h2>India Leading Job Searching Platform</h2>
         <h3>Register Yourself Now To Start Your Journey</h3>
-        <h4>5 Million + User's Already Registered</h4>
+        {/* <h4>5 Million + User's Already Registered</h4> */}
       </div>
       <div className='signup-form'>
         <h1>Register</h1>

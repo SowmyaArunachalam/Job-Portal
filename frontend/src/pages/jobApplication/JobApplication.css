@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Arimo:ital,wght@0,400..700;1,400..700&display=swap');
 .modal-content{
-    background: beige;
+    background: #d9e4f5;
     border: 1px solid #6487c0;
     padding: 10px;
 }
@@ -34,6 +34,6 @@
 .modal-body button{
     width: 100%;
     background: #6487c0;
-    color: beige;
+    color: #d9e4f5;
     margin-top: 15px;
 }
